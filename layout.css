@@ -1,0 +1,47 @@
+
+#header{
+background-color:#B0C4DE;
+  color: black;
+}			
+#sidebar-left{
+	float:left;
+	width:15%;
+	height:140%;
+	background-color: #4169E1;
+	
+	}
+
+#main{
+	float:left;
+	width:70%;
+	background-color: white;
+	}
+
+#sidebar-right{
+	float:left;
+	width:15%;
+	background-color: #ADD8E6;
+	}
+
+#sidebar-left, #main, #sidebar-right{
+	min-height: 800px				
+	}
+			
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #B0C4DE;
+  color: black;
+  text-align: center;
+}
+
+			
+.contentleft{
+	text-align:center ;
+	color:#FFFACD;
+}
+.leftfooter{
+	color:#FFFF00;
+}
